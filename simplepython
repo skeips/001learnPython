@@ -1,0 +1,5 @@
+def write():
+    your_text = input("Your Message: ")
+    print(your_text)
+    
+write()
